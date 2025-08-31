@@ -445,10 +445,7 @@ const sunIcon = document.getElementById("icon-sun");
 const moonIcon = document.getElementById("icon-moon");
 
 toggleBtn.addEventListener("click", () => {
-  // Toggle dark-mode class on <body>
   document.body.classList.toggle("dark-mode");
-
-  // Toggle icons
   sunIcon.classList.toggle("hidden");
   moonIcon.classList.toggle("hidden");
 });
