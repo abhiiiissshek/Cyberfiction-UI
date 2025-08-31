@@ -1,4 +1,6 @@
 # ⚡ Cyberfiction Frontend
+You can view it live here: [https://cyberfictionui.netlify.app](https://cyberfictionui.netlify.app)
+
 
 This project is a **learning experiment** focused on **animations, scroll effects, and interactive UI design**.  
 It is inspired by **Cyberfiction** — a futuristic digital world that blends storytelling, technology, and immersive design.  
